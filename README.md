@@ -6,3 +6,7 @@
 2. add - move a file to staged files
 3. index, staging area - staged files
 4. commit - create a new version with the files in the staging area
+
+## discard
+
+- unchange the file to the last commit
