@@ -10,3 +10,9 @@
 ## discard
 
 - unchange the file to the last commit
+
+## reset
+
+- reset current branch to a certain commit
+- hard : discard all working copy changes
+- mixed : keep working copy but reset index
