@@ -32,3 +32,9 @@
 ## merge
 
 - 두개의 branch를 병합해서 하나의 버전으로 커밋
+
+## merge conflict
+
+- 병합 과정에서 충돌이 발생
+- 사용자가 직접 수정하도록 Git이 자동으로 위임
+- resolve conflicts : mark resolved : 충돌을 해결했다고 Git한테 알리는 작업
