@@ -16,3 +16,8 @@
 - reset current branch to a certain commit
 - hard : discard all working copy changes
 - mixed : keep working copy but reset index
+
+## revert
+
+- 버전을 유지한채로 되돌린 버전으로 commit을 생성
+- 여러 단계 밑의 버전으로 되돌릴 경우 순차적으로 revert 해줘야 충돌이 안생김
